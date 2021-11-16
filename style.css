@@ -1,0 +1,149 @@
+body
+{
+  background:url("../hyperlinks/images/world.jpg");
+  background-attachment: fixed;
+  
+}
+
+h1   
+ {
+     color:rgb(99, 204, 204)
+     font-style: italic;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+a:link
+{
+  font-size: 2em;
+  font-style: italic;
+ color: rgb(43, 172, 172);
+}
+a:hover
+{
+    color:rgb(218, 57, 57) ;
+}
+
+
+
+div
+{
+width: 1200px;
+height:1024px;
+border-color:black;
+border-style: solid;
+margin-bottom: 30px;
+}
+
+#taj
+{
+  width: 100vw;
+  height:100vh;
+}
+#chi
+{
+    width: 100vw;
+    height:100vh;
+}
+#ma
+{
+    width: 100vw;
+    height:100vh;
+
+}
+#pe
+{
+    width: 100vw;
+    height:100vh; 
+}
+#chic
+{
+    width: 100vw;
+    height:100vh; 
+}
+#chri
+{
+    width: 100vw;
+    height:100vh; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#Tajmahal
+{
+    width: 100vw;
+    height: 100vh;
+    background: url("../hyperlinks/images/tajmahal.jpg");
+    background-repeat: no-repeat;
+ 
+    
+  
+}
+
+    
+
+#Chinawall
+{
+    width: 100vw;
+    height: 100vh;
+    background: url("../hyperlinks/images/chinawall.jpg");
+    background-repeat: no-repeat;
+    
+  
+}
+
+#Colo
+{
+    width: 100vw;
+    height: 100vh;
+    background: url("../hyperlinks/images/colo.jpg");
+    background-repeat: no-repeat;
+  
+}
+
+#Machu
+{
+    width: 100vw;
+    height: 100vh;
+    background: url("../hyperlinks/images/machu.jpg");
+    background-repeat: no-repeat;
+  
+}
+
+#Petra
+{
+    width: 100vw;
+    height: 100vh;
+    background: url("../hyperlinks/images/petra.jpg");
+    background-repeat: no-repeat;
+ 
+}
+#Chichen
+{
+    width: 100vw;
+height: 100vh;
+    background: url("../hyperlinks/images/chichen.jpg");
+    background-repeat: no-repeat;
+  
+}
+#Christ
+{
+    width: 100vw;
+    height: 100vh;
+    background: url("../hyperlinks/images/christ.jpg");
+    background-repeat: no-repeat;
+}
+*/
